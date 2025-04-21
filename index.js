@@ -4,10 +4,10 @@ require("dotenv").config();
 
 const app = express();
 
-app.use(express.json()); // 👈 Middleware to parse JSON
+app.use(express.json());
 
-const bookRoutes = require("./routes/bookRoutes"); // 👈 Add this
-app.use("/api", bookRoutes); // 👈 Mount routes
+const bookRoutes = require("./routes/bookRoutes"); //
+app.use("/api", bookRoutes); //
 
 // MongoDB connection
 mongoose
