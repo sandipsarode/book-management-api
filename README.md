@@ -36,7 +36,7 @@ book-management-api/ ├── controllers/ # (Optional - for separation of logi
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/sandipsarode/book-management-api.git
    cd book-management-api
    ```
    npm install
