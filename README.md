@@ -83,5 +83,3 @@ This project is for educational purposes only. You are free to use and modify it
 Made with ❤️ by Sandip Sarode
 
 ---
-
-Would you also like me to generate the **Postman collection JSON** file for importing directly? Let me know!
