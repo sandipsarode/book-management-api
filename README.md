@@ -78,6 +78,8 @@ DELETE | /api/books/:id | Delete a book
 
 This project is for educational purposes only. You are free to use and modify it.
 
+✅ Contributed by @sandipsarode
+
 ## 🙌 Author
 
 Made with ❤️ by Sandip Sarode
